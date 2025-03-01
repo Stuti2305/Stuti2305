@@ -25,7 +25,8 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/stutimishra/" target="blank"><img align="center" src="https://img.shields.io/badge/stuti?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="stutimishra58@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/stutimishra?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/stuti2305" target="blank"><img align="center" src="https://img.shields.io/badge/stuti?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/stutimishra/" target="blank"><img align="center" src="https://img.shields.io/badge/STUTI%20MISHRA
+?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="stutimishra58@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/stutimishra?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/stuti2305" target="blank"><img align="center" src="https://img.shields.io/badge/stuti?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
   
 <br>
