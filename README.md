@@ -25,7 +25,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/stutimishra/" target="_blank">
+  <a href="www.linkedin.com/in/stuti-mishra-173485196" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
