@@ -6,7 +6,7 @@
 <h1>About Me! 😎</h1>
 
 
-- 🏫:Currently a final year student pursuing CSE at Banasthali Vidyaspeeth Jaipur .
+- 🏫:Currently a final year student pursuing Master of Computer Applications at BV .
 
 
 <p align="center">
